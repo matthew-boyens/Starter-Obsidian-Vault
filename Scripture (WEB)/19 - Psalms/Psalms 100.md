@@ -1,0 +1,30 @@
+Related:
+Status: #📖/🟥
+# Psalms 100
+
+[[Psalms 99|← Psalms 99]] | [[Psalms]] | [[Psalms 101|Psalms 101 →]]
+***
+
+
+
+###### 1 
+Shout for joy to Yahweh, all you lands! 
+
+###### 2 
+Serve Yahweh with gladness. Come before his presence with singing. 
+
+###### 3 
+Know that Yahweh, he is God. It is he who has made us, and we are his. We are his people, and the sheep of his pasture. 
+
+###### 4 
+Enter into his gates with thanksgiving, and into his courts with praise. Give thanks to him, and bless his name. 
+
+###### 5 
+For Yahweh is good. His loving kindness endures forever, his faithfulness to all generations.
+
+---
+# Notes
+
+
+***
+[[Psalms 99|← Psalms 99]] | [[Psalms]] | [[Psalms 101|Psalms 101 →]]

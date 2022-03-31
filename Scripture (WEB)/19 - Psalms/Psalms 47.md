@@ -1,0 +1,42 @@
+Related:
+Status: #📖/🟥
+# Psalms 47
+
+[[Psalms 46|← Psalms 46]] | [[Psalms]] | [[Psalms 48|Psalms 48 →]]
+***
+
+
+
+###### 1 
+Oh clap your hands, all you nations. Shout to God with the voice of triumph! 
+
+###### 2 
+For Yahweh Most High is awesome. He is a great King over all the earth. 
+
+###### 3 
+He subdues nations under us, and peoples under our feet. 
+
+###### 4 
+He chooses our inheritance for us, the glory of Jacob whom he loved. Selah. 
+
+###### 5 
+God has gone up with a shout, Yahweh with the sound of a trumpet. 
+
+###### 6 
+Sing praises to God! Sing praises! Sing praises to our King! Sing praises! 
+
+###### 7 
+For God is the King of all the earth. Sing praises with understanding. 
+
+###### 8 
+God reigns over the nations. God sits on his holy throne. 
+
+###### 9 
+The princes of the peoples are gathered together, the people of the God of Abraham. For the shields of the earth belong to God. He is greatly exalted!
+
+---
+# Notes
+
+
+***
+[[Psalms 46|← Psalms 46]] | [[Psalms]] | [[Psalms 48|Psalms 48 →]]

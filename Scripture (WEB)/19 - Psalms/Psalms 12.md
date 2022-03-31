@@ -1,0 +1,39 @@
+Related:
+Status: #📖/🟥
+# Psalms 12
+
+[[Psalms 11|← Psalms 11]] | [[Psalms]] | [[Psalms 13|Psalms 13 →]]
+***
+
+
+
+###### 1 
+Help, Yahweh; for the godly man ceases. For the faithful fail from among the children of men. 
+
+###### 2 
+Everyone lies to his neighbor. They speak with flattering lips, and with a double heart. 
+
+###### 3 
+May Yahweh cut off all flattering lips, and the tongue that boasts, 
+
+###### 4 
+who have said, "With our tongue we will prevail. Our lips are our own. Who is lord over us?" 
+
+###### 5 
+"Because of the oppression of the weak and because of the groaning of the needy, I will now arise," says Yahweh; "I will set him in safety from those who malign him." 
+
+###### 6 
+Yahweh's words are flawless words, as silver refined in a clay furnace, purified seven times. 
+
+###### 7 
+You will keep them, Yahweh. You will preserve them from this generation forever. 
+
+###### 8 
+The wicked walk on every side, when what is vile is exalted among the sons of men.
+
+---
+# Notes
+
+
+***
+[[Psalms 11|← Psalms 11]] | [[Psalms]] | [[Psalms 13|Psalms 13 →]]
