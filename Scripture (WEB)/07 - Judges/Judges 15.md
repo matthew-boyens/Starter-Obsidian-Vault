@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Judges 15
 
 [[Judges 14|← Judges 14]] | [[Judges]] | [[Judges 16|Judges 16 →]]

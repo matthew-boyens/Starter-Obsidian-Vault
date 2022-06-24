@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Psalms 28
 
 [[Psalms 27|← Psalms 27]] | [[Psalms]] | [[Psalms 29|Psalms 29 →]]

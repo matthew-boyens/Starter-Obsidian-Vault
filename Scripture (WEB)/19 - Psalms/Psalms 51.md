@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Psalms 51
 
 [[Psalms 50|← Psalms 50]] | [[Psalms]] | [[Psalms 52|Psalms 52 →]]

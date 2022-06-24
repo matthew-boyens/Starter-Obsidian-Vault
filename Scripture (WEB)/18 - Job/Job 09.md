@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Job 9
 
 [[Job 08|← Job 08]] | [[Job]] | [[Job 10|Job 10 →]]

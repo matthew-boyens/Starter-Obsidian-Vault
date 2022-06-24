@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Ezekiel 39
 
 [[Ezekiel 38|← Ezekiel 38]] | [[Ezekiel]] | [[Ezekiel 40|Ezekiel 40 →]]

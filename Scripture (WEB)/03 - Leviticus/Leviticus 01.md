@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Leviticus 1
 
 [[Leviticus]] | [[Leviticus 02|Leviticus 02 →]]

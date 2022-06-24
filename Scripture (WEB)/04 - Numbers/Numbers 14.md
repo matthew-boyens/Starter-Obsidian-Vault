@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Numbers 14
 
 [[Numbers 13|← Numbers 13]] | [[Numbers]] | [[Numbers 15|Numbers 15 →]]

@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Numbers 9
 
 [[Numbers 08|← Numbers 08]] | [[Numbers]] | [[Numbers 10|Numbers 10 →]]

@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 2 Chronicles 33
 
 [[2 Chronicles 32|← 2 Chronicles 32]] | [[2 Chronicles]] | [[2 Chronicles 34|2 Chronicles 34 →]]

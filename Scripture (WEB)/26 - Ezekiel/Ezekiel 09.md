@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Ezekiel 9
 
 [[Ezekiel 08|← Ezekiel 08]] | [[Ezekiel]] | [[Ezekiel 10|Ezekiel 10 →]]

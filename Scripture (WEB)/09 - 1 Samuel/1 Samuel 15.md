@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 1 Samuel 15
 
 [[1 Samuel 14|← 1 Samuel 14]] | [[1 Samuel]] | [[1 Samuel 16|1 Samuel 16 →]]

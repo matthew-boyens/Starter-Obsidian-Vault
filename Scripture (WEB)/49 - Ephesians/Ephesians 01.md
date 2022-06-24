@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Ephesians 1
 
 [[Ephesians]] | [[Ephesians 02|Ephesians 02 →]]

@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Numbers 32
 
 [[Numbers 31|← Numbers 31]] | [[Numbers]] | [[Numbers 33|Numbers 33 →]]

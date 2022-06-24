@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Jeremiah 21
 
 [[Jeremiah 20|← Jeremiah 20]] | [[Jeremiah]] | [[Jeremiah 22|Jeremiah 22 →]]

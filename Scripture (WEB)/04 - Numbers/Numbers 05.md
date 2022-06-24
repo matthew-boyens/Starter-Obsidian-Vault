@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Numbers 5
 
 [[Numbers 04|← Numbers 04]] | [[Numbers]] | [[Numbers 06|Numbers 06 →]]

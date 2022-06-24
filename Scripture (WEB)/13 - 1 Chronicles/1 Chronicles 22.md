@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 1 Chronicles 22
 
 [[1 Chronicles 21|← 1 Chronicles 21]] | [[1 Chronicles]] | [[1 Chronicles 23|1 Chronicles 23 →]]

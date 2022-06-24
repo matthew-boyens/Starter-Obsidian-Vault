@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Psalms 44
 
 [[Psalms 43|← Psalms 43]] | [[Psalms]] | [[Psalms 45|Psalms 45 →]]

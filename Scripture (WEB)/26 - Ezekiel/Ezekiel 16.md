@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Ezekiel 16
 
 [[Ezekiel 15|← Ezekiel 15]] | [[Ezekiel]] | [[Ezekiel 17|Ezekiel 17 →]]

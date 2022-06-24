@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Exodus 15
 
 [[Exodus 14|← Exodus 14]] | [[Exodus]] | [[Exodus 16|Exodus 16 →]]

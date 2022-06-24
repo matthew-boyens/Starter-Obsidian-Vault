@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Job 36
 
 [[Job 35|← Job 35]] | [[Job]] | [[Job 37|Job 37 →]]

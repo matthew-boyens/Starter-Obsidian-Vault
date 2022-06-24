@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Genesis 5
 
 [[Genesis 04|← Genesis 04]] | [[Genesis]] | [[Genesis 06|Genesis 06 →]]

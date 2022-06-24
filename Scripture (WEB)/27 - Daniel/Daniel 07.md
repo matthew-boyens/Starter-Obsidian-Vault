@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Daniel 7
 
 [[Daniel 06|← Daniel 06]] | [[Daniel]] | [[Daniel 08|Daniel 08 →]]

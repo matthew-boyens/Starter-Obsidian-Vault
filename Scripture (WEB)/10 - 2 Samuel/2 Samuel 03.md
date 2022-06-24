@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 2 Samuel 3
 
 [[2 Samuel 02|← 2 Samuel 02]] | [[2 Samuel]] | [[2 Samuel 04|2 Samuel 04 →]]

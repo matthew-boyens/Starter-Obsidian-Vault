@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Proverbs 11
 
 [[Proverbs 10|← Proverbs 10]] | [[Proverbs]] | [[Proverbs 12|Proverbs 12 →]]

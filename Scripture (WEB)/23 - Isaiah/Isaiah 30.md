@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Isaiah 30
 
 [[Isaiah 29|← Isaiah 29]] | [[Isaiah]] | [[Isaiah 31|Isaiah 31 →]]

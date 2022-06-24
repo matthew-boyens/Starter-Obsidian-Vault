@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 2 Chronicles 10
 
 [[2 Chronicles 09|← 2 Chronicles 09]] | [[2 Chronicles]] | [[2 Chronicles 11|2 Chronicles 11 →]]

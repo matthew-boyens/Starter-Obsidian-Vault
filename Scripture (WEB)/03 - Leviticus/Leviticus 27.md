@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Leviticus 27
 
 [[Leviticus 26|← Leviticus 26]] | [[Leviticus]]

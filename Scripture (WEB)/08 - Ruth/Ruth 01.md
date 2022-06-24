@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Ruth 1
 
 [[Ruth]] | [[Ruth 02|Ruth 02 →]]

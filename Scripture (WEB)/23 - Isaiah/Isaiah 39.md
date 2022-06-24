@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Isaiah 39
 
 [[Isaiah 38|← Isaiah 38]] | [[Isaiah]] | [[Isaiah 40|Isaiah 40 →]]

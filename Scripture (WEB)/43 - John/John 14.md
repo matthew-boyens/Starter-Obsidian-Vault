@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # John 14
 
 [[John 13|← John 13]] | [[John]] | [[John 15|John 15 →]]

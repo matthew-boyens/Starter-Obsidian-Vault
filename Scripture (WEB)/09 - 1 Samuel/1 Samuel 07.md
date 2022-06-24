@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 1 Samuel 7
 
 [[1 Samuel 06|← 1 Samuel 06]] | [[1 Samuel]] | [[1 Samuel 08|1 Samuel 08 →]]

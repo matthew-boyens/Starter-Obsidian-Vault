@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Psalms 37
 
 [[Psalms 36|← Psalms 36]] | [[Psalms]] | [[Psalms 38|Psalms 38 →]]

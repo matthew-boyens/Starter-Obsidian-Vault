@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Deuteronomy 8
 
 [[Deuteronomy 07|← Deuteronomy 07]] | [[Deuteronomy]] | [[Deuteronomy 09|Deuteronomy 09 →]]

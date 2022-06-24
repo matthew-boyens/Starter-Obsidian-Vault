@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 2 Kings 6
 
 [[2 Kings 05|← 2 Kings 05]] | [[2 Kings]] | [[2 Kings 07|2 Kings 07 →]]

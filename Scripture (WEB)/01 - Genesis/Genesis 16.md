@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Genesis 16
 
 [[Genesis 15|← Genesis 15]] | [[Genesis]] | [[Genesis 17|Genesis 17 →]]

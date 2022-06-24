@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Proverbs 7
 
 [[Proverbs 06|← Proverbs 06]] | [[Proverbs]] | [[Proverbs 08|Proverbs 08 →]]

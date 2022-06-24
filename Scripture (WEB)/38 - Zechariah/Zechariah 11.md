@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Zechariah 11
 
 [[Zechariah 10|← Zechariah 10]] | [[Zechariah]] | [[Zechariah 12|Zechariah 12 →]]

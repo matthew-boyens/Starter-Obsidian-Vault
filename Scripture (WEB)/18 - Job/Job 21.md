@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Job 21
 
 [[Job 20|← Job 20]] | [[Job]] | [[Job 22|Job 22 →]]

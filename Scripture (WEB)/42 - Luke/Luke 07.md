@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Luke 7
 
 [[Luke 06|← Luke 06]] | [[Luke]] | [[Luke 08|Luke 08 →]]

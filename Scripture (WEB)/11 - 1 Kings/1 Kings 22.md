@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 1 Kings 22
 
 [[1 Kings 21|← 1 Kings 21]] | [[1 Kings]]

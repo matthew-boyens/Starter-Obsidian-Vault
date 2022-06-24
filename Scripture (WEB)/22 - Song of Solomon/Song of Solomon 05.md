@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Song of Solomon 5
 
 [[Song of Solomon 04|← Song of Solomon 04]] | [[Song of Solomon]] | [[Song of Solomon 06|Song of Solomon 06 →]]

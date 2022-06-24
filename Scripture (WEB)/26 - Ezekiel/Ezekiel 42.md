@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Ezekiel 42
 
 [[Ezekiel 41|← Ezekiel 41]] | [[Ezekiel]] | [[Ezekiel 43|Ezekiel 43 →]]

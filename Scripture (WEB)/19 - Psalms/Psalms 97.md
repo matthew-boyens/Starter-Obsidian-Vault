@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Psalms 97
 
 [[Psalms 96|← Psalms 96]] | [[Psalms]] | [[Psalms 98|Psalms 98 →]]

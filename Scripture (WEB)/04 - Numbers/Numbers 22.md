@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Numbers 22
 
 [[Numbers 21|← Numbers 21]] | [[Numbers]] | [[Numbers 23|Numbers 23 →]]

@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Job 29
 
 [[Job 28|← Job 28]] | [[Job]] | [[Job 30|Job 30 →]]

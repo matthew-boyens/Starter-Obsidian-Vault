@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Genesis 11
 
 [[Genesis 10|← Genesis 10]] | [[Genesis]] | [[Genesis 12|Genesis 12 →]]

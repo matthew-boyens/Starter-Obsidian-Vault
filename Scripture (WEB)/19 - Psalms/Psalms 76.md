@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Psalms 76
 
 [[Psalms 75|← Psalms 75]] | [[Psalms]] | [[Psalms 77|Psalms 77 →]]

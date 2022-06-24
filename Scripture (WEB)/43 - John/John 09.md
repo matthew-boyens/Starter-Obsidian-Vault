@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # John 9
 
 [[John 08|← John 08]] | [[John]] | [[John 10|John 10 →]]

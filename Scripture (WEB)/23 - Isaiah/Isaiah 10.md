@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Isaiah 10
 
 [[Isaiah 09|← Isaiah 09]] | [[Isaiah]] | [[Isaiah 11|Isaiah 11 →]]

@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Isaiah 14
 
 [[Isaiah 13|← Isaiah 13]] | [[Isaiah]] | [[Isaiah 15|Isaiah 15 →]]

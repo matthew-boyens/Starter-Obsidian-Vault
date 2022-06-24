@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Joshua 15
 
 [[Joshua 14|← Joshua 14]] | [[Joshua]] | [[Joshua 16|Joshua 16 →]]

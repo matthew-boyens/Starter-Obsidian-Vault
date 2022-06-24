@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Exodus 11
 
 [[Exodus 10|← Exodus 10]] | [[Exodus]] | [[Exodus 12|Exodus 12 →]]

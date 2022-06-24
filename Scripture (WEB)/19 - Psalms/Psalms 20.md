@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Psalms 20
 
 [[Psalms 19|← Psalms 19]] | [[Psalms]] | [[Psalms 21|Psalms 21 →]]

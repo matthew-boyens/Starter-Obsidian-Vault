@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 1 Samuel 12
 
 [[1 Samuel 11|← 1 Samuel 11]] | [[1 Samuel]] | [[1 Samuel 13|1 Samuel 13 →]]

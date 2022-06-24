@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Jeremiah 52
 
 [[Jeremiah 51|← Jeremiah 51]] | [[Jeremiah]]

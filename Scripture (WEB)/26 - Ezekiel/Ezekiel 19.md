@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Ezekiel 19
 
 [[Ezekiel 18|← Ezekiel 18]] | [[Ezekiel]] | [[Ezekiel 20|Ezekiel 20 →]]

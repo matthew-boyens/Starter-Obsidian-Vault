@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Genesis 47
 
 [[Genesis 46|← Genesis 46]] | [[Genesis]] | [[Genesis 48|Genesis 48 →]]

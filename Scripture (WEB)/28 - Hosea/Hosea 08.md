@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Hosea 8
 
 [[Hosea 07|← Hosea 07]] | [[Hosea]] | [[Hosea 09|Hosea 09 →]]

@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Esther 2
 
 [[Esther 01|← Esther 01]] | [[Esther]] | [[Esther 03|Esther 03 →]]

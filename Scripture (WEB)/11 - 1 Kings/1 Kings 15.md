@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 1 Kings 15
 
 [[1 Kings 14|← 1 Kings 14]] | [[1 Kings]] | [[1 Kings 16|1 Kings 16 →]]

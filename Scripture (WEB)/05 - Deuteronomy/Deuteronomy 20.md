@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Deuteronomy 20
 
 [[Deuteronomy 19|← Deuteronomy 19]] | [[Deuteronomy]] | [[Deuteronomy 21|Deuteronomy 21 →]]

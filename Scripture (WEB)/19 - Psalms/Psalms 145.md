@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Psalms 145
 
 [[Psalms 144|← Psalms 144]] | [[Psalms]] | [[Psalms 146|Psalms 146 →]]

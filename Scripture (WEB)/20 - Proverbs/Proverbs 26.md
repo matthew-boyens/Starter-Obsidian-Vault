@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Proverbs 26
 
 [[Proverbs 25|← Proverbs 25]] | [[Proverbs]] | [[Proverbs 27|Proverbs 27 →]]

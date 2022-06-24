@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Psalms 24
 
 [[Psalms 23|← Psalms 23]] | [[Psalms]] | [[Psalms 25|Psalms 25 →]]

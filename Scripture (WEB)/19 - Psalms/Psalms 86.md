@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Psalms 86
 
 [[Psalms 85|← Psalms 85]] | [[Psalms]] | [[Psalms 87|Psalms 87 →]]

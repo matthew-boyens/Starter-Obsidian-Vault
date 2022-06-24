@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Matthew 21
 
 [[Matthew 20|← Matthew 20]] | [[Matthew]] | [[Matthew 22|Matthew 22 →]]

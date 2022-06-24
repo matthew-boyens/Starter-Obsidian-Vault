@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Psalms 102
 
 [[Psalms 101|← Psalms 101]] | [[Psalms]] | [[Psalms 103|Psalms 103 →]]

@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 2 Chronicles 21
 
 [[2 Chronicles 20|← 2 Chronicles 20]] | [[2 Chronicles]] | [[2 Chronicles 22|2 Chronicles 22 →]]

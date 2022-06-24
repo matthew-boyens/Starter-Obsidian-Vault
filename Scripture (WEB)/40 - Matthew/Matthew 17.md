@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Matthew 17
 
 [[Matthew 16|← Matthew 16]] | [[Matthew]] | [[Matthew 18|Matthew 18 →]]

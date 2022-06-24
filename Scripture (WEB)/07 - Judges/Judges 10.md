@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Judges 10
 
 [[Judges 09|← Judges 09]] | [[Judges]] | [[Judges 11|Judges 11 →]]

@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Proverbs 17
 
 [[Proverbs 16|← Proverbs 16]] | [[Proverbs]] | [[Proverbs 18|Proverbs 18 →]]

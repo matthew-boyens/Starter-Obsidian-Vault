@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 1 Chronicles 4
 
 [[1 Chronicles 03|← 1 Chronicles 03]] | [[1 Chronicles]] | [[1 Chronicles 05|1 Chronicles 05 →]]

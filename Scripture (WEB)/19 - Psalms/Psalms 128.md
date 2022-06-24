@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Psalms 128
 
 [[Psalms 127|← Psalms 127]] | [[Psalms]] | [[Psalms 129|Psalms 129 →]]

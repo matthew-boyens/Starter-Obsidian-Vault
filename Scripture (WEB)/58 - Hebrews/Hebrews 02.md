@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Hebrews 2
 
 [[Hebrews 01|← Hebrews 01]] | [[Hebrews]] | [[Hebrews 03|Hebrews 03 →]]

@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 2 Samuel 20
 
 [[2 Samuel 19|← 2 Samuel 19]] | [[2 Samuel]] | [[2 Samuel 21|2 Samuel 21 →]]

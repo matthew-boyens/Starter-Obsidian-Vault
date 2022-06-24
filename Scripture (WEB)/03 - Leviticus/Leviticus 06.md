@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Leviticus 6
 
 [[Leviticus 05|← Leviticus 05]] | [[Leviticus]] | [[Leviticus 07|Leviticus 07 →]]

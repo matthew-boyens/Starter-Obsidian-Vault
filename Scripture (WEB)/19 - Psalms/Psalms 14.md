@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Psalms 14
 
 [[Psalms 13|← Psalms 13]] | [[Psalms]] | [[Psalms 15|Psalms 15 →]]

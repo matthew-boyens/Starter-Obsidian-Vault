@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Revelation 5
 
 [[Revelation 04|← Revelation 04]] | [[Revelation]] | [[Revelation 06|Revelation 06 →]]

@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Joshua 13
 
 [[Joshua 12|← Joshua 12]] | [[Joshua]] | [[Joshua 14|Joshua 14 →]]

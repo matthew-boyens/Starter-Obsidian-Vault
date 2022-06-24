@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 2 Kings 9
 
 [[2 Kings 08|← 2 Kings 08]] | [[2 Kings]] | [[2 Kings 10|2 Kings 10 →]]

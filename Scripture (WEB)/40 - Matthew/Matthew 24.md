@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Matthew 24
 
 [[Matthew 23|← Matthew 23]] | [[Matthew]] | [[Matthew 25|Matthew 25 →]]

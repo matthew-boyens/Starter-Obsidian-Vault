@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Romans 6
 
 [[Romans 05|← Romans 05]] | [[Romans]] | [[Romans 07|Romans 07 →]]

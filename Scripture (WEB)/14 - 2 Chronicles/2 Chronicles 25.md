@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 2 Chronicles 25
 
 [[2 Chronicles 24|← 2 Chronicles 24]] | [[2 Chronicles]] | [[2 Chronicles 26|2 Chronicles 26 →]]

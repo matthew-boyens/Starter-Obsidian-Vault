@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Ruth 4
 
 [[Ruth 03|← Ruth 03]] | [[Ruth]]

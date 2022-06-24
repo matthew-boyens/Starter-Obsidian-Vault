@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Exodus 39
 
 [[Exodus 38|← Exodus 38]] | [[Exodus]] | [[Exodus 40|Exodus 40 →]]

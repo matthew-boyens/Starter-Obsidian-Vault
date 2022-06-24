@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Micah 3
 
 [[Micah 02|← Micah 02]] | [[Micah]] | [[Micah 04|Micah 04 →]]

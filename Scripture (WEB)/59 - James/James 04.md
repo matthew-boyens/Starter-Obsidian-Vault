@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # James 4
 
 [[James 03|← James 03]] | [[James]] | [[James 05|James 05 →]]

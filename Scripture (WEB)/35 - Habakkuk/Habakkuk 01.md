@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Habakkuk 1
 
 [[Habakkuk]] | [[Habakkuk 02|Habakkuk 02 →]]

@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 2 Chronicles 28
 
 [[2 Chronicles 27|← 2 Chronicles 27]] | [[2 Chronicles]] | [[2 Chronicles 29|2 Chronicles 29 →]]

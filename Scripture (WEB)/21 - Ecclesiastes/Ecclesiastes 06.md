@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Ecclesiastes 6
 
 [[Ecclesiastes 05|← Ecclesiastes 05]] | [[Ecclesiastes]] | [[Ecclesiastes 07|Ecclesiastes 07 →]]

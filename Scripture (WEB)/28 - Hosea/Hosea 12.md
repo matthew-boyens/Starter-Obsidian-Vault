@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Hosea 12
 
 [[Hosea 11|← Hosea 11]] | [[Hosea]] | [[Hosea 13|Hosea 13 →]]

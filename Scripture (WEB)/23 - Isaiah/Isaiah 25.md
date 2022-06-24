@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Isaiah 25
 
 [[Isaiah 24|← Isaiah 24]] | [[Isaiah]] | [[Isaiah 26|Isaiah 26 →]]

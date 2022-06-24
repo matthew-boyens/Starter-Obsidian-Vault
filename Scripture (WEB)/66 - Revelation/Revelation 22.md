@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Revelation 22
 
 [[Revelation 21|← Revelation 21]] | [[Revelation]]

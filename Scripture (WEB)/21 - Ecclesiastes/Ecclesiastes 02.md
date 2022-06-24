@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Ecclesiastes 2
 
 [[Ecclesiastes 01|← Ecclesiastes 01]] | [[Ecclesiastes]] | [[Ecclesiastes 03|Ecclesiastes 03 →]]

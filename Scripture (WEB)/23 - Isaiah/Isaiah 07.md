@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Isaiah 7
 
 [[Isaiah 06|← Isaiah 06]] | [[Isaiah]] | [[Isaiah 08|Isaiah 08 →]]

@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Genesis 39
 
 [[Genesis 38|← Genesis 38]] | [[Genesis]] | [[Genesis 40|Genesis 40 →]]

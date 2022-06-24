@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Jeremiah 6
 
 [[Jeremiah 05|← Jeremiah 05]] | [[Jeremiah]] | [[Jeremiah 07|Jeremiah 07 →]]

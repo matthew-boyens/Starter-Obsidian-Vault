@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Romans 9
 
 [[Romans 08|← Romans 08]] | [[Romans]] | [[Romans 10|Romans 10 →]]

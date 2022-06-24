@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Deuteronomy 10
 
 [[Deuteronomy 09|← Deuteronomy 09]] | [[Deuteronomy]] | [[Deuteronomy 11|Deuteronomy 11 →]]

@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Psalms 31
 
 [[Psalms 30|← Psalms 30]] | [[Psalms]] | [[Psalms 32|Psalms 32 →]]

@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Jonah 4
 
 [[Jonah 03|← Jonah 03]] | [[Jonah]]

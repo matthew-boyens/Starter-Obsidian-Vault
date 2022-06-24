@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Romans 11
 
 [[Romans 10|← Romans 10]] | [[Romans]] | [[Romans 12|Romans 12 →]]

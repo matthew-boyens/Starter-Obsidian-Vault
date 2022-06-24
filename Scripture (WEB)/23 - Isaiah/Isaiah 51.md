@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Isaiah 51
 
 [[Isaiah 50|← Isaiah 50]] | [[Isaiah]] | [[Isaiah 52|Isaiah 52 →]]

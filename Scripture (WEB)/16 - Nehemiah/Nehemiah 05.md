@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Nehemiah 5
 
 [[Nehemiah 04|← Nehemiah 04]] | [[Nehemiah]] | [[Nehemiah 06|Nehemiah 06 →]]

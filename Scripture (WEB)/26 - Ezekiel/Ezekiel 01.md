@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Ezekiel 1
 
 [[Ezekiel]] | [[Ezekiel 02|Ezekiel 02 →]]

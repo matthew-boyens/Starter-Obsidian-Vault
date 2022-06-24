@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Psalms 122
 
 [[Psalms 121|← Psalms 121]] | [[Psalms]] | [[Psalms 123|Psalms 123 →]]

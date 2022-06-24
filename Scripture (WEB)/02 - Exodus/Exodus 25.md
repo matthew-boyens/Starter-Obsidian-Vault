@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Exodus 25
 
 [[Exodus 24|← Exodus 24]] | [[Exodus]] | [[Exodus 26|Exodus 26 →]]

@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Jeremiah 12
 
 [[Jeremiah 11|← Jeremiah 11]] | [[Jeremiah]] | [[Jeremiah 13|Jeremiah 13 →]]

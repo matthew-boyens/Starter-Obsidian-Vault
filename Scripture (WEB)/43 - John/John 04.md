@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # John 4
 
 [[John 03|← John 03]] | [[John]] | [[John 05|John 05 →]]

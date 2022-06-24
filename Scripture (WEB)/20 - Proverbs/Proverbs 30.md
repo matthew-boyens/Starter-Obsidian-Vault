@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Proverbs 30
 
 [[Proverbs 29|← Proverbs 29]] | [[Proverbs]] | [[Proverbs 31|Proverbs 31 →]]

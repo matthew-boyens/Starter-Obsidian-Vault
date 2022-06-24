@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Psalms 1
 
 [[Psalms]] | [[Psalms 02|Psalms 02 →]]

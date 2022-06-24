@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Judges 1
 
 [[Judges]] | [[Judges 02|Judges 02 →]]

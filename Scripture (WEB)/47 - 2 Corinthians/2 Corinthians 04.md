@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # 2 Corinthians 4
 
 [[2 Corinthians 03|← 2 Corinthians 03]] | [[2 Corinthians]] | [[2 Corinthians 05|2 Corinthians 05 →]]

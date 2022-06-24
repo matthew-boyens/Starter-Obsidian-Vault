@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Judges 21
 
 [[Judges 20|← Judges 20]] | [[Judges]]

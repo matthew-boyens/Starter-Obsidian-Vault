@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Zephaniah 1
 
 [[Zephaniah]] | [[Zephaniah 02|Zephaniah 02 →]]

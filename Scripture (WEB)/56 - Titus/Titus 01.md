@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Titus 1
 
 [[Titus]] | [[Titus 02|Titus 02 →]]

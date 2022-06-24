@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Lamentations 4
 
 [[Lamentations 03|← Lamentations 03]] | [[Lamentations]] | [[Lamentations 05|Lamentations 05 →]]

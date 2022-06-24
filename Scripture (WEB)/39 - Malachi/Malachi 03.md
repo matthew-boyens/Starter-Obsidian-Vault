@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Malachi 3
 
 [[Malachi 02|← Malachi 02]] | [[Malachi]] | [[Malachi 04|Malachi 04 →]]

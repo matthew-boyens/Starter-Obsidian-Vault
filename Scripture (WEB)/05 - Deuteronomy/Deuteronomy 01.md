@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Deuteronomy 1
 
 [[Deuteronomy]] | [[Deuteronomy 02|Deuteronomy 02 →]]

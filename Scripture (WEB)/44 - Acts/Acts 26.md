@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Acts 26
 
 [[Acts 25|← Acts 25]] | [[Acts]] | [[Acts 27|Acts 27 →]]

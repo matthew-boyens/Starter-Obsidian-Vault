@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Ezekiel 11
 
 [[Ezekiel 10|← Ezekiel 10]] | [[Ezekiel]] | [[Ezekiel 12|Ezekiel 12 →]]

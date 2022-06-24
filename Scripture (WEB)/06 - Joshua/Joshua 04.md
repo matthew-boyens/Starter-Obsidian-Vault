@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Joshua 4
 
 [[Joshua 03|← Joshua 03]] | [[Joshua]] | [[Joshua 05|Joshua 05 →]]

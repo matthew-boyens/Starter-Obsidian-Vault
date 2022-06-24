@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Exodus 34
 
 [[Exodus 33|← Exodus 33]] | [[Exodus]] | [[Exodus 35|Exodus 35 →]]

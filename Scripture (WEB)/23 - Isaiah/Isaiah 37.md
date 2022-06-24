@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Isaiah 37
 
 [[Isaiah 36|← Isaiah 36]] | [[Isaiah]] | [[Isaiah 38|Isaiah 38 →]]

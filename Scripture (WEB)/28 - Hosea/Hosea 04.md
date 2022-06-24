@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Hosea 4
 
 [[Hosea 03|← Hosea 03]] | [[Hosea]] | [[Hosea 05|Hosea 05 →]]

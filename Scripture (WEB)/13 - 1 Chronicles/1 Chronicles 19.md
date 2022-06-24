@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 1 Chronicles 19
 
 [[1 Chronicles 18|← 1 Chronicles 18]] | [[1 Chronicles]] | [[1 Chronicles 20|1 Chronicles 20 →]]

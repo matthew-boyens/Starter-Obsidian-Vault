@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Psalms 59
 
 [[Psalms 58|← Psalms 58]] | [[Psalms]] | [[Psalms 60|Psalms 60 →]]

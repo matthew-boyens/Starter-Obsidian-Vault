@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Joel 2
 
 [[Joel 01|← Joel 01]] | [[Joel]] | [[Joel 03|Joel 03 →]]

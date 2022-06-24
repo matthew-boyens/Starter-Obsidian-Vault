@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Joshua 8
 
 [[Joshua 07|← Joshua 07]] | [[Joshua]] | [[Joshua 09|Joshua 09 →]]

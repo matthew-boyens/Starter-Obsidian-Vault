@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 2 Kings 25
 
 [[2 Kings 24|← 2 Kings 24]] | [[2 Kings]]

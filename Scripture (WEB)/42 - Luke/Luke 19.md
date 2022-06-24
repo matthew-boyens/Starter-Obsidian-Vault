@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Luke 19
 
 [[Luke 18|← Luke 18]] | [[Luke]] | [[Luke 20|Luke 20 →]]

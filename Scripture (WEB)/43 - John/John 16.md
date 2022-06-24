@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # John 16
 
 [[John 15|← John 15]] | [[John]] | [[John 17|John 17 →]]

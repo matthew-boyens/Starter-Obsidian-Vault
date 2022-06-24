@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Judges 4
 
 [[Judges 03|← Judges 03]] | [[Judges]] | [[Judges 05|Judges 05 →]]

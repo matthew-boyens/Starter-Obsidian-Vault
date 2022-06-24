@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Psalms 8
 
 [[Psalms 07|← Psalms 07]] | [[Psalms]] | [[Psalms 09|Psalms 09 →]]

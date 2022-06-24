@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Acts 17
 
 [[Acts 16|← Acts 16]] | [[Acts]] | [[Acts 18|Acts 18 →]]

@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Ezekiel 28
 
 [[Ezekiel 27|← Ezekiel 27]] | [[Ezekiel]] | [[Ezekiel 29|Ezekiel 29 →]]

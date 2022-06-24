@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Jeremiah 42
 
 [[Jeremiah 41|← Jeremiah 41]] | [[Jeremiah]] | [[Jeremiah 43|Jeremiah 43 →]]

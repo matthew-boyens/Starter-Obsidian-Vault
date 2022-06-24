@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 2 Kings 13
 
 [[2 Kings 12|← 2 Kings 12]] | [[2 Kings]] | [[2 Kings 14|2 Kings 14 →]]

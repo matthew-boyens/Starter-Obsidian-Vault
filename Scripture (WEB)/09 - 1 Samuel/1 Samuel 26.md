@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 1 Samuel 26
 
 [[1 Samuel 25|← 1 Samuel 25]] | [[1 Samuel]] | [[1 Samuel 27|1 Samuel 27 →]]

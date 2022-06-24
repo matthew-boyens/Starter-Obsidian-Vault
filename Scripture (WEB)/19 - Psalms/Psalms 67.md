@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Psalms 67
 
 [[Psalms 66|← Psalms 66]] | [[Psalms]] | [[Psalms 68|Psalms 68 →]]

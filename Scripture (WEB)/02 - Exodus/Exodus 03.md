@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Exodus 3
 
 [[Exodus 02|← Exodus 02]] | [[Exodus]] | [[Exodus 04|Exodus 04 →]]

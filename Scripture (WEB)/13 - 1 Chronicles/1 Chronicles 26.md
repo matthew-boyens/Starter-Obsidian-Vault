@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 1 Chronicles 26
 
 [[1 Chronicles 25|← 1 Chronicles 25]] | [[1 Chronicles]] | [[1 Chronicles 27|1 Chronicles 27 →]]

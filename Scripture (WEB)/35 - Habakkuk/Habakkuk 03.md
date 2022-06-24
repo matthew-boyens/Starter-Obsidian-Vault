@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Habakkuk 3
 
 [[Habakkuk 02|← Habakkuk 02]] | [[Habakkuk]]

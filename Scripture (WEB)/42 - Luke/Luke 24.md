@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Luke 24
 
 [[Luke 23|← Luke 23]] | [[Luke]]

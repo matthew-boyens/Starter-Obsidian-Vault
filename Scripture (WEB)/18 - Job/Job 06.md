@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Job 6
 
 [[Job 05|← Job 05]] | [[Job]] | [[Job 07|Job 07 →]]

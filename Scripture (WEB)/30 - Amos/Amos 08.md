@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Amos 8
 
 [[Amos 07|← Amos 07]] | [[Amos]] | [[Amos 09|Amos 09 →]]

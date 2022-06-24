@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Isaiah 63
 
 [[Isaiah 62|← Isaiah 62]] | [[Isaiah]] | [[Isaiah 64|Isaiah 64 →]]

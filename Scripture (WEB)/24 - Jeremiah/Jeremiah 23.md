@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Jeremiah 23
 
 [[Jeremiah 22|← Jeremiah 22]] | [[Jeremiah]] | [[Jeremiah 24|Jeremiah 24 →]]

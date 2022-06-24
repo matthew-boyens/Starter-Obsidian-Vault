@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Acts 11
 
 [[Acts 10|← Acts 10]] | [[Acts]] | [[Acts 12|Acts 12 →]]

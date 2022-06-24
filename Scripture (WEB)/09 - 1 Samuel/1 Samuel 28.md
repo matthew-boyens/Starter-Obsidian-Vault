@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 1 Samuel 28
 
 [[1 Samuel 27|← 1 Samuel 27]] | [[1 Samuel]] | [[1 Samuel 29|1 Samuel 29 →]]

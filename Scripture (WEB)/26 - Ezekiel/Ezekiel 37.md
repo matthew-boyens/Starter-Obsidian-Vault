@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Ezekiel 37
 
 [[Ezekiel 36|← Ezekiel 36]] | [[Ezekiel]] | [[Ezekiel 38|Ezekiel 38 →]]

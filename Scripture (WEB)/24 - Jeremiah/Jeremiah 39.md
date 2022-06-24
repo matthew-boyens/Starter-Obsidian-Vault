@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Jeremiah 39
 
 [[Jeremiah 38|← Jeremiah 38]] | [[Jeremiah]] | [[Jeremiah 40|Jeremiah 40 →]]

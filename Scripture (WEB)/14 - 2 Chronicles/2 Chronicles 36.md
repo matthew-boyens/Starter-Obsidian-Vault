@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 2 Chronicles 36
 
 [[2 Chronicles 35|← 2 Chronicles 35]] | [[2 Chronicles]]

@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Isaiah 5
 
 [[Isaiah 04|← Isaiah 04]] | [[Isaiah]] | [[Isaiah 06|Isaiah 06 →]]

@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Numbers 16
 
 [[Numbers 15|← Numbers 15]] | [[Numbers]] | [[Numbers 17|Numbers 17 →]]

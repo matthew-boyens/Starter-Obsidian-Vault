@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Matthew 8
 
 [[Matthew 07|← Matthew 07]] | [[Matthew]] | [[Matthew 09|Matthew 09 →]]

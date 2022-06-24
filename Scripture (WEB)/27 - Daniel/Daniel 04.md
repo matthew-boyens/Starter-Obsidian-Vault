@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Daniel 4
 
 [[Daniel 03|← Daniel 03]] | [[Daniel]] | [[Daniel 05|Daniel 05 →]]

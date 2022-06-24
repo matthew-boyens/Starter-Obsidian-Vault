@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 1 Chronicles 29
 
 [[1 Chronicles 28|← 1 Chronicles 28]] | [[1 Chronicles]]

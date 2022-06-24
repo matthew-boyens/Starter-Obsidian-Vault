@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Job 13
 
 [[Job 12|← Job 12]] | [[Job]] | [[Job 14|Job 14 →]]

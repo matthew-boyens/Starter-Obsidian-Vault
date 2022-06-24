@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Ezra 10
 
 [[Ezra 09|← Ezra 09]] | [[Ezra]]

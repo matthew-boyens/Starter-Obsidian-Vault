@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Psalms 113
 
 [[Psalms 112|← Psalms 112]] | [[Psalms]] | [[Psalms 114|Psalms 114 →]]

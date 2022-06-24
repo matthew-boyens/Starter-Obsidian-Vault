@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # 2 Corinthians 8
 
 [[2 Corinthians 07|← 2 Corinthians 07]] | [[2 Corinthians]] | [[2 Corinthians 09|2 Corinthians 09 →]]

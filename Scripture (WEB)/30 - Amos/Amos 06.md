@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Amos 6
 
 [[Amos 05|← Amos 05]] | [[Amos]] | [[Amos 07|Amos 07 →]]

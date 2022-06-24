@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Genesis 22
 
 [[Genesis 21|← Genesis 21]] | [[Genesis]] | [[Genesis 23|Genesis 23 →]]

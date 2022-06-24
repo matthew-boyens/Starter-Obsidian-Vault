@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Numbers 27
 
 [[Numbers 26|← Numbers 26]] | [[Numbers]] | [[Numbers 28|Numbers 28 →]]

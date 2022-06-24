@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Numbers 18
 
 [[Numbers 17|← Numbers 17]] | [[Numbers]] | [[Numbers 19|Numbers 19 →]]

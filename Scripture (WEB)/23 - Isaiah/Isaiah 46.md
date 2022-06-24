@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Isaiah 46
 
 [[Isaiah 45|← Isaiah 45]] | [[Isaiah]] | [[Isaiah 47|Isaiah 47 →]]

@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Jeremiah 18
 
 [[Jeremiah 17|← Jeremiah 17]] | [[Jeremiah]] | [[Jeremiah 19|Jeremiah 19 →]]

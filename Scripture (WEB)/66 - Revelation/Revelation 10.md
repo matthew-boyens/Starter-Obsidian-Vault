@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Revelation 10
 
 [[Revelation 09|← Revelation 09]] | [[Revelation]] | [[Revelation 11|Revelation 11 →]]

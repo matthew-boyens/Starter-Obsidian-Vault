@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Ezekiel 24
 
 [[Ezekiel 23|← Ezekiel 23]] | [[Ezekiel]] | [[Ezekiel 25|Ezekiel 25 →]]

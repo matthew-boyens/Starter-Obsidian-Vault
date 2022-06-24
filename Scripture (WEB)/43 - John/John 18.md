@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # John 18
 
 [[John 17|← John 17]] | [[John]] | [[John 19|John 19 →]]

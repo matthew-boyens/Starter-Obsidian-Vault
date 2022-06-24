@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Judges 7
 
 [[Judges 06|← Judges 06]] | [[Judges]] | [[Judges 08|Judges 08 →]]

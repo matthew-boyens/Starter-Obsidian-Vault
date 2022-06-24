@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Galatians 1
 
 [[Galatians]] | [[Galatians 02|Galatians 02 →]]

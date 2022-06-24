@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 2 Chronicles 1
 
 [[2 Chronicles]] | [[2 Chronicles 02|2 Chronicles 02 →]]

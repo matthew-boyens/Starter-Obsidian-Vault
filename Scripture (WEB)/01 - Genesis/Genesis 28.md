@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Genesis 28
 
 [[Genesis 27|← Genesis 27]] | [[Genesis]] | [[Genesis 29|Genesis 29 →]]

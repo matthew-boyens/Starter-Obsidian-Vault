@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Jeremiah 27
 
 [[Jeremiah 26|← Jeremiah 26]] | [[Jeremiah]] | [[Jeremiah 28|Jeremiah 28 →]]

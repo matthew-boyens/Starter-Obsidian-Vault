@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Matthew 5
 
 [[Matthew 04|← Matthew 04]] | [[Matthew]] | [[Matthew 06|Matthew 06 →]]

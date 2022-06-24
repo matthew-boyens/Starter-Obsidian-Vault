@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Ezra 3
 
 [[Ezra 02|← Ezra 02]] | [[Ezra]] | [[Ezra 04|Ezra 04 →]]

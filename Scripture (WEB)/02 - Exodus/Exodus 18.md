@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Exodus 18
 
 [[Exodus 17|← Exodus 17]] | [[Exodus]] | [[Exodus 19|Exodus 19 →]]

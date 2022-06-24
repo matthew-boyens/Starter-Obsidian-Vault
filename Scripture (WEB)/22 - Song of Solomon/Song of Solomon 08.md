@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Song of Solomon 8
 
 [[Song of Solomon 07|← Song of Solomon 07]] | [[Song of Solomon]]

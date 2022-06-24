@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Luke 5
 
 [[Luke 04|← Luke 04]] | [[Luke]] | [[Luke 06|Luke 06 →]]

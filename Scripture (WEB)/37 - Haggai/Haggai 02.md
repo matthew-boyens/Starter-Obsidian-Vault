@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Haggai 2
 
 [[Haggai 01|← Haggai 01]] | [[Haggai]]

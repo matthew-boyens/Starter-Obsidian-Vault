@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Acts 22
 
 [[Acts 21|← Acts 21]] | [[Acts]] | [[Acts 23|Acts 23 →]]

@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Isaiah 58
 
 [[Isaiah 57|← Isaiah 57]] | [[Isaiah]] | [[Isaiah 59|Isaiah 59 →]]

@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Joshua 22
 
 [[Joshua 21|← Joshua 21]] | [[Joshua]] | [[Joshua 23|Joshua 23 →]]

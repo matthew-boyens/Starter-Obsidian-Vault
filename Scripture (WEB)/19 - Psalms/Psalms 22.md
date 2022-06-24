@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Psalms 22
 
 [[Psalms 21|← Psalms 21]] | [[Psalms]] | [[Psalms 23|Psalms 23 →]]

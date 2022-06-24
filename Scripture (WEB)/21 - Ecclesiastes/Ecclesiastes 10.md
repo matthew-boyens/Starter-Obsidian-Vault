@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Ecclesiastes 10
 
 [[Ecclesiastes 09|← Ecclesiastes 09]] | [[Ecclesiastes]] | [[Ecclesiastes 11|Ecclesiastes 11 →]]

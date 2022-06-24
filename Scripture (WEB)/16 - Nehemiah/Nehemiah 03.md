@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Nehemiah 3
 
 [[Nehemiah 02|← Nehemiah 02]] | [[Nehemiah]] | [[Nehemiah 04|Nehemiah 04 →]]

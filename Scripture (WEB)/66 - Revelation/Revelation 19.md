@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Revelation 19
 
 [[Revelation 18|← Revelation 18]] | [[Revelation]] | [[Revelation 20|Revelation 20 →]]

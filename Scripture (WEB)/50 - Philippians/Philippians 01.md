@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Philippians 1
 
 [[Philippians]] | [[Philippians 02|Philippians 02 →]]

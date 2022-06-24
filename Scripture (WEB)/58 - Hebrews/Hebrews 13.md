@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Hebrews 13
 
 [[Hebrews 12|← Hebrews 12]] | [[Hebrews]]

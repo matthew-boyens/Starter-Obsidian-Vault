@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Matthew 1
 
 [[Matthew]] | [[Matthew 02|Matthew 02 →]]

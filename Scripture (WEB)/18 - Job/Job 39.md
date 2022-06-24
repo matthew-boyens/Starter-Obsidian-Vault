@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Job 39
 
 [[Job 38|← Job 38]] | [[Job]] | [[Job 40|Job 40 →]]

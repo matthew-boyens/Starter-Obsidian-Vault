@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Amos 2
 
 [[Amos 01|← Amos 01]] | [[Amos]] | [[Amos 03|Amos 03 →]]

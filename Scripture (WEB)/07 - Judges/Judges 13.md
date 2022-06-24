@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Judges 13
 
 [[Judges 12|← Judges 12]] | [[Judges]] | [[Judges 14|Judges 14 →]]

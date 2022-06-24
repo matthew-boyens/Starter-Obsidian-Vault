@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Nahum 2
 
 [[Nahum 01|← Nahum 01]] | [[Nahum]] | [[Nahum 03|Nahum 03 →]]

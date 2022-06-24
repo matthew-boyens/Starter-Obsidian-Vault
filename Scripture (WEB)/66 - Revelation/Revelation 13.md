@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Revelation 13
 
 [[Revelation 12|← Revelation 12]] | [[Revelation]] | [[Revelation 14|Revelation 14 →]]

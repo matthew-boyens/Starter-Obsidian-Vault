@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Genesis 50
 
 [[Genesis 49|← Genesis 49]] | [[Genesis]]

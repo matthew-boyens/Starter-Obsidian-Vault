@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # 1 Timothy 5
 
 [[1 Timothy 04|← 1 Timothy 04]] | [[1 Timothy]] | [[1 Timothy 06|1 Timothy 06 →]]

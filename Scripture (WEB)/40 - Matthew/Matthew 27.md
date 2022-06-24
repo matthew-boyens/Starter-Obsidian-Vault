@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Matthew 27
 
 [[Matthew 26|← Matthew 26]] | [[Matthew]] | [[Matthew 28|Matthew 28 →]]

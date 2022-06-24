@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 2 Kings 17
 
 [[2 Kings 16|← 2 Kings 16]] | [[2 Kings]] | [[2 Kings 18|2 Kings 18 →]]

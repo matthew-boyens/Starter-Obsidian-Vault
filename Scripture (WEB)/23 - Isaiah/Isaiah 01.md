@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Isaiah 1
 
 [[Isaiah]] | [[Isaiah 02|Isaiah 02 →]]

@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Jeremiah 33
 
 [[Jeremiah 32|← Jeremiah 32]] | [[Jeremiah]] | [[Jeremiah 34|Jeremiah 34 →]]

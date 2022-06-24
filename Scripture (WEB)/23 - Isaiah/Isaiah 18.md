@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Isaiah 18
 
 [[Isaiah 17|← Isaiah 17]] | [[Isaiah]] | [[Isaiah 19|Isaiah 19 →]]

@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Daniel 12
 
 [[Daniel 11|← Daniel 11]] | [[Daniel]]

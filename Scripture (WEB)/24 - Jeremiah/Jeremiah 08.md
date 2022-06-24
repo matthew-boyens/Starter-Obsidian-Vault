@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Jeremiah 8
 
 [[Jeremiah 07|← Jeremiah 07]] | [[Jeremiah]] | [[Jeremiah 09|Jeremiah 09 →]]

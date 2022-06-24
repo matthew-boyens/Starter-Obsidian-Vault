@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Nehemiah 8
 
 [[Nehemiah 07|← Nehemiah 07]] | [[Nehemiah]] | [[Nehemiah 09|Nehemiah 09 →]]

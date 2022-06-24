@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Genesis 8
 
 [[Genesis 07|← Genesis 07]] | [[Genesis]] | [[Genesis 09|Genesis 09 →]]

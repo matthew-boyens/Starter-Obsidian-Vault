@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Isaiah 23
 
 [[Isaiah 22|← Isaiah 22]] | [[Isaiah]] | [[Isaiah 24|Isaiah 24 →]]

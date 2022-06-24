@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Job 23
 
 [[Job 22|← Job 22]] | [[Job]] | [[Job 24|Job 24 →]]

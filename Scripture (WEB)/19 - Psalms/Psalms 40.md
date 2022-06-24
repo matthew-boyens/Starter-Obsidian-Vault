@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Psalms 40
 
 [[Psalms 39|← Psalms 39]] | [[Psalms]] | [[Psalms 41|Psalms 41 →]]

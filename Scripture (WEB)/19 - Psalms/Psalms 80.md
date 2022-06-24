@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Psalms 80
 
 [[Psalms 79|← Psalms 79]] | [[Psalms]] | [[Psalms 81|Psalms 81 →]]

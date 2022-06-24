@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Luke 15
 
 [[Luke 14|← Luke 14]] | [[Luke]] | [[Luke 16|Luke 16 →]]

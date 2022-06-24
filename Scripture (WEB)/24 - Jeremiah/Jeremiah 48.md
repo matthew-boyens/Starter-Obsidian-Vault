@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Jeremiah 48
 
 [[Jeremiah 47|← Jeremiah 47]] | [[Jeremiah]] | [[Jeremiah 49|Jeremiah 49 →]]

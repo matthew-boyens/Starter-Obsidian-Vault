@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # 1 Peter 1
 
 [[1 Peter]] | [[1 Peter 02|1 Peter 02 →]]

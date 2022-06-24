@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Genesis 18
 
 [[Genesis 17|← Genesis 17]] | [[Genesis]] | [[Genesis 19|Genesis 19 →]]

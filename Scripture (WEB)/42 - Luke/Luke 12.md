@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Luke 12
 
 [[Luke 11|← Luke 11]] | [[Luke]] | [[Luke 13|Luke 13 →]]
@@ -23,7 +23,7 @@ Meanwhile, when a multitude of many thousands had gathered together, so much so 
 **But I will warn you whom you should fear. Fear him who after he has killed, has power to cast into Gehenna.** **Yes, I tell you, fear him.** 
 
 ###### 6 
-**"Aren't five sparrows sold for two assaria coins** BibleGateway-to-Markdown README.md Scripture (NLT) Scripture (WEB) The Bible.md bg2md.rb bg2obs.sh book_patch.sh Not one of them is forgotten by God.** 
+**"Aren't five sparrows sold for two assaria coins** BibleGateway-to-Markdown README.md Scripture (ESV) Scripture (NLT) Scripture (WEB) The Bible.md bg2md.rb bg2obs.sh book_patch.sh Not one of them is forgotten by God.** 
 
 ###### 7 
 **But the very hairs of your head are all counted. Therefore don't be afraid. You are of more value than many sparrows.** 

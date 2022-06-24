@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Isaiah 35
 
 [[Isaiah 34|← Isaiah 34]] | [[Isaiah]] | [[Isaiah 36|Isaiah 36 →]]

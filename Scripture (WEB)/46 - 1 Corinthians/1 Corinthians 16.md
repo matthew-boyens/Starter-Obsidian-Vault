@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # 1 Corinthians 16
 
 [[1 Corinthians 15|← 1 Corinthians 15]] | [[1 Corinthians]]

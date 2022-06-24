@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Ecclesiastes 12
 
 [[Ecclesiastes 11|← Ecclesiastes 11]] | [[Ecclesiastes]]

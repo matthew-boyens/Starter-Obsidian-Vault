@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Mark 13
 
 [[Mark 12|← Mark 12]] | [[Mark]] | [[Mark 14|Mark 14 →]]

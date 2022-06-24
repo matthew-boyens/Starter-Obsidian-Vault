@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Leviticus 11
 
 [[Leviticus 10|← Leviticus 10]] | [[Leviticus]] | [[Leviticus 12|Leviticus 12 →]]

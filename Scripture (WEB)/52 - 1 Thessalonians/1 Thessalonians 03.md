@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # 1 Thessalonians 3
 
 [[1 Thessalonians 02|← 1 Thessalonians 02]] | [[1 Thessalonians]] | [[1 Thessalonians 04|1 Thessalonians 04 →]]

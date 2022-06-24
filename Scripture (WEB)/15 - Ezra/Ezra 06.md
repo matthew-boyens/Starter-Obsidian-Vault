@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Ezra 6
 
 [[Ezra 05|← Ezra 05]] | [[Ezra]] | [[Ezra 07|Ezra 07 →]]

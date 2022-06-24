@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 1 Chronicles 16
 
 [[1 Chronicles 15|← 1 Chronicles 15]] | [[1 Chronicles]] | [[1 Chronicles 17|1 Chronicles 17 →]]

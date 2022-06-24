@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Joshua 1
 
 [[Joshua]] | [[Joshua 02|Joshua 02 →]]

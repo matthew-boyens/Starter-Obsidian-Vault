@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Exodus 22
 
 [[Exodus 21|← Exodus 21]] | [[Exodus]] | [[Exodus 23|Exodus 23 →]]

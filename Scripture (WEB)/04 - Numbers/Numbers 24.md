@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Numbers 24
 
 [[Numbers 23|← Numbers 23]] | [[Numbers]] | [[Numbers 25|Numbers 25 →]]

@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Deuteronomy 13
 
 [[Deuteronomy 12|← Deuteronomy 12]] | [[Deuteronomy]] | [[Deuteronomy 14|Deuteronomy 14 →]]

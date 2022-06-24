@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Leviticus 9
 
 [[Leviticus 08|← Leviticus 08]] | [[Leviticus]] | [[Leviticus 10|Leviticus 10 →]]

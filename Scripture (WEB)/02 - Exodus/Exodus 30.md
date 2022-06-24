@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Exodus 30
 
 [[Exodus 29|← Exodus 29]] | [[Exodus]] | [[Exodus 31|Exodus 31 →]]

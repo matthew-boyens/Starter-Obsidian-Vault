@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Hebrews 8
 
 [[Hebrews 07|← Hebrews 07]] | [[Hebrews]] | [[Hebrews 09|Hebrews 09 →]]

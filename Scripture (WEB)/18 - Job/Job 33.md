@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Job 33
 
 [[Job 32|← Job 32]] | [[Job]] | [[Job 34|Job 34 →]]

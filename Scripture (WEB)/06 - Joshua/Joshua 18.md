@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Joshua 18
 
 [[Joshua 17|← Joshua 17]] | [[Joshua]] | [[Joshua 19|Joshua 19 →]]

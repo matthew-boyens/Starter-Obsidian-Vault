@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Isaiah 16
 
 [[Isaiah 15|← Isaiah 15]] | [[Isaiah]] | [[Isaiah 17|Isaiah 17 →]]

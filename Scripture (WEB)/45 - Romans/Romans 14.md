@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Romans 14
 
 [[Romans 13|← Romans 13]] | [[Romans]] | [[Romans 15|Romans 15 →]]

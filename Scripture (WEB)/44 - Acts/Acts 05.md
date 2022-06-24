@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Acts 5
 
 [[Acts 04|← Acts 04]] | [[Acts]] | [[Acts 06|Acts 06 →]]

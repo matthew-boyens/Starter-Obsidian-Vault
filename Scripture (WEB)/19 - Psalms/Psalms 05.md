@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Psalms 5
 
 [[Psalms 04|← Psalms 04]] | [[Psalms]] | [[Psalms 06|Psalms 06 →]]

@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 2 Chronicles 14
 
 [[2 Chronicles 13|← 2 Chronicles 13]] | [[2 Chronicles]] | [[2 Chronicles 15|2 Chronicles 15 →]]

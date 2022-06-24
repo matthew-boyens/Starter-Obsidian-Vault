@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 1 Samuel 30
 
 [[1 Samuel 29|← 1 Samuel 29]] | [[1 Samuel]] | [[1 Samuel 31|1 Samuel 31 →]]

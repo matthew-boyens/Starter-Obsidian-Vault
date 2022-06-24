@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 2 Chronicles 18
 
 [[2 Chronicles 17|← 2 Chronicles 17]] | [[2 Chronicles]] | [[2 Chronicles 19|2 Chronicles 19 →]]

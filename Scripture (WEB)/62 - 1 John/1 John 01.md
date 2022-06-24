@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # 1 John 1
 
 [[1 John]] | [[1 John 02|1 John 02 →]]

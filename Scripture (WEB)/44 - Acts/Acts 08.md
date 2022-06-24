@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Acts 8
 
 [[Acts 07|← Acts 07]] | [[Acts]] | [[Acts 09|Acts 09 →]]

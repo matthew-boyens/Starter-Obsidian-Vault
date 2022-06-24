@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Psalms 116
 
 [[Psalms 115|← Psalms 115]] | [[Psalms]] | [[Psalms 117|Psalms 117 →]]

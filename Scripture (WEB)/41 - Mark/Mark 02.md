@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Mark 2
 
 [[Mark 01|← Mark 01]] | [[Mark]] | [[Mark 03|Mark 03 →]]

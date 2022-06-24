@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Psalms 100
 
 [[Psalms 99|← Psalms 99]] | [[Psalms]] | [[Psalms 101|Psalms 101 →]]

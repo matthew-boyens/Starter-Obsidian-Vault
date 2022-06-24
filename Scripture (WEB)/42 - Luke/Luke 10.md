@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Luke 10
 
 [[Luke 09|← Luke 09]] | [[Luke]] | [[Luke 11|Luke 11 →]]

@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # 1 Corinthians 6
 
 [[1 Corinthians 05|← 1 Corinthians 05]] | [[1 Corinthians]] | [[1 Corinthians 07|1 Corinthians 07 →]]

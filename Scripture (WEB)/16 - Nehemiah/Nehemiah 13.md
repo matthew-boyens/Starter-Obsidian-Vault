@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Nehemiah 13
 
 [[Nehemiah 12|← Nehemiah 12]] | [[Nehemiah]]

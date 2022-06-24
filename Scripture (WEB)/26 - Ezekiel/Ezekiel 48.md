@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Ezekiel 48
 
 [[Ezekiel 47|← Ezekiel 47]] | [[Ezekiel]]

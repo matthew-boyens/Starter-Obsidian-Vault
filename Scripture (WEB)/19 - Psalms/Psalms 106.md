@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Psalms 106
 
 [[Psalms 105|← Psalms 105]] | [[Psalms]] | [[Psalms 107|Psalms 107 →]]

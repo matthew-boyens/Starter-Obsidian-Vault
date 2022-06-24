@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Ezekiel 21
 
 [[Ezekiel 20|← Ezekiel 20]] | [[Ezekiel]] | [[Ezekiel 22|Ezekiel 22 →]]

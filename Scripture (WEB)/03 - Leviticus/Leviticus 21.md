@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Leviticus 21
 
 [[Leviticus 20|← Leviticus 20]] | [[Leviticus]] | [[Leviticus 22|Leviticus 22 →]]

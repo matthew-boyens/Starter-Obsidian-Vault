@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Zechariah 5
 
 [[Zechariah 04|← Zechariah 04]] | [[Zechariah]] | [[Zechariah 06|Zechariah 06 →]]

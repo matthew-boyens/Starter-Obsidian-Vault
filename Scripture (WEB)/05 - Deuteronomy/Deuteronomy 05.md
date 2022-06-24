@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Deuteronomy 5
 
 [[Deuteronomy 04|← Deuteronomy 04]] | [[Deuteronomy]] | [[Deuteronomy 06|Deuteronomy 06 →]]

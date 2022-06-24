@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Job 16
 
 [[Job 15|← Job 15]] | [[Job]] | [[Job 17|Job 17 →]]

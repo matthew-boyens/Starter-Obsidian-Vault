@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[New Testament]]
+Status:: #📖/🟥
 # Colossians 2
 
 [[Colossians 01|← Colossians 01]] | [[Colossians]] | [[Colossians 03|Colossians 03 →]]

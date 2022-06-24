@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Deuteronomy 27
 
 [[Deuteronomy 26|← Deuteronomy 26]] | [[Deuteronomy]] | [[Deuteronomy 28|Deuteronomy 28 →]]

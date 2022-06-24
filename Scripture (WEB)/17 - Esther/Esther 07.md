@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Esther 7
 
 [[Esther 06|← Esther 06]] | [[Esther]] | [[Esther 08|Esther 08 →]]

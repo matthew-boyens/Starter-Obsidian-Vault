@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Genesis 43
 
 [[Genesis 42|← Genesis 42]] | [[Genesis]] | [[Genesis 44|Genesis 44 →]]

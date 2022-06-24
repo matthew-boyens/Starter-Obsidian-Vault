@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 1 Samuel 19
 
 [[1 Samuel 18|← 1 Samuel 18]] | [[1 Samuel]] | [[1 Samuel 20|1 Samuel 20 →]]

@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # Deuteronomy 34
 
 [[Deuteronomy 33|← Deuteronomy 33]] | [[Deuteronomy]]

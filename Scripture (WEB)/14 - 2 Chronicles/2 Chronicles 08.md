@@ -1,5 +1,5 @@
-Related:
-Status: #📖/🟥
+Related::[[Old Testament]]
+Status:: #📖/🟥
 # 2 Chronicles 8
 
 [[2 Chronicles 07|← 2 Chronicles 07]] | [[2 Chronicles]] | [[2 Chronicles 09|2 Chronicles 09 →]]
