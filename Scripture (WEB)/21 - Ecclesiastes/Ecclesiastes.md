@@ -1,4 +1,5 @@
-links: [[The Bible]][[Old Testament]]
+links: [[The Bible]] [[Old Testament]]
+Status:: #📖/🚰
 # Ecclesiastes
 
 [[Ecclesiastes 01|Start Reading →]]

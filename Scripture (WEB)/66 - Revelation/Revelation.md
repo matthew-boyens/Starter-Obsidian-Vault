@@ -1,4 +1,5 @@
-links: [[The Bible]][[New Testament]]
+links: [[The Bible]] [[New Testament]]
+Status:: #📖/🚰
 # Revelation
 
 [[Revelation 01|Start Reading →]]

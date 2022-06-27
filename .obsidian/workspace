@@ -10,6 +10,30 @@
           "type": "graph",
           "state": {}
         }
+      },
+      {
+        "id": "04e437a8b7238283",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "The Bible.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3933726a8da196ed",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Scripture (WEB)/19 - Psalms/Psalms.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -73,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Bible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Bible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Bible.md"
+              }
             }
           },
           {
@@ -136,16 +164,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ede5ae66af5cd055",
+  "active": "04e437a8b7238283",
   "lastOpenFiles": [
+    "Scripture (WEB)/19 - Psalms/Psalms.md",
+    "Scripture (WEB)/06 - Joshua/Joshua.md",
+    "Scripture (WEB)/06 - Joshua/Joshua 01.md",
+    "Scripture (WEB)/05 - Deuteronomy/Deuteronomy.md",
     "The Bible.md",
     "Quick Start.md",
     "Templates/Person Template.md",
     "Templates/1 - Permanent Note Template+.md",
     "Templates/1 - Permanent Note Template.md",
-    "Templates/0 - Fleeting Note.md",
-    "Templates/3 - Embed Youtube.md",
-    "Templates/New Note Template.md",
-    "Templates/2 - Daily Note Template (offline).md"
+    "Templates/0 - Fleeting Note.md"
   ]
 }

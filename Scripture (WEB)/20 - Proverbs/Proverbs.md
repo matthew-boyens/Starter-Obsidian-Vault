@@ -1,4 +1,5 @@
-links: [[The Bible]][[Old Testament]]
+links: [[The Bible]] [[Old Testament]]
+Status:: #📖/🚰
 # Proverbs
 
 [[Proverbs 01|Start Reading →]]

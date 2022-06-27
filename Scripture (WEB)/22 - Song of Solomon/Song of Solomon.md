@@ -1,4 +1,5 @@
-links: [[The Bible]][[Old Testament]]
+links: [[The Bible]] [[Old Testament]]
+Status:: #📖/🚰
 # Song of Solomon
 
 [[Song of Solomon 01|Start Reading →]]
