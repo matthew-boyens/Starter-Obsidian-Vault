@@ -7,7 +7,7 @@
         "id": "ede5ae66af5cd055",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -112,6 +112,22 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "0e843d7193b5e8e1",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "672e178b15a0ae72",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
           }
         ]
       }
@@ -121,5 +137,15 @@
     "collapsed": true
   },
   "active": "ede5ae66af5cd055",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "The Bible.md",
+    "Quick Start.md",
+    "Templates/Person Template.md",
+    "Templates/1 - Permanent Note Template+.md",
+    "Templates/1 - Permanent Note Template.md",
+    "Templates/0 - Fleeting Note.md",
+    "Templates/3 - Embed Youtube.md",
+    "Templates/New Note Template.md",
+    "Templates/2 - Daily Note Template (offline).md"
+  ]
 }
